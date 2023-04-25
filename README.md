@@ -1,5 +1,7 @@
 # Group 44 - An Economic Reconsideration of Pride
 
+![dashboard](Group%2044%20Final%20Dashboard.jpg)
+
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project).
